@@ -170,6 +170,7 @@ INSERT INTO `Account`
                             (	5	,	1		,'2021-07-31'),
                             (	2	,	5		,'2021-10-19'),
                             (	6	,	7		,'2018-09-19');
+					
                             
         -- nhap bang du lieu TypeQuestion
         
@@ -219,6 +220,7 @@ INSERT INTO TypeQuestion (TypeID, TypeName)
                     ('B3'	,'NET'		,	4		,	'60'	,	5	 ,'2018-09-19'),
                     ('C'	,'RUBY'		,	3		, 	'90'	,	3	 ,'2021-10-19');
                     
+--  -- nhap bang du lieu 
                     
 
                             
